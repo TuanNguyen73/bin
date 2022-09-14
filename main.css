@@ -1,0 +1,10 @@
+:root {
+    --text-color: red;
+    --mau-vang: yellow;
+}
+p{
+    color: var(--text-color);
+}
+li{
+    color: var(--mau-vang);
+}
